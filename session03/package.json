@@ -1,0 +1,27 @@
+{
+  "name": "arnie-eris",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xvburak/arnie-eris.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xvburak/arnie-eris/issues"
+  },
+  "homepage": "https://github.com/xvburak/arnie-eris#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "eris": "^0.16.1",
+    "install": "^0.13.0",
+    "npm": "^8.5.5",
+    "pluris": "^0.3.7"
+  }
+}
